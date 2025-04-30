@@ -67,3 +67,5 @@ Biconomy provides Account Abstraction APIs for a wide range of uses cases and po
 Wallet Connect is an easy way to get started with wallet integration across web3.\
 [Wallet Connect for Telegram Mini Apps](https://docs.reown.com/appkit/features/telegram-mini-appshttps://t.me/appkit_test_ggr_bot)\
 [Reown Docs](https://docs.reown.com/)
+### MOnad Glossary
+[View the Monad Glossary →](./glossary.md)
